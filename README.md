@@ -9,3 +9,18 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/tripng">
 </p>
+<br>
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### I am Currently Python and ML learner
+
+- 🌱 I’m currently learning Website.
+- 👯 I’m looking to collaborate with other Developers:
+- 🥅 2022 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :)
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: plus ultra
+- ⚡ Fun fact: I love kobo
+
+<br>
