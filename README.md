@@ -13,7 +13,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am Currently Python and ML learner
+### I am Currently Full Stack Website Developer
 
 - 🌱 I’m currently learning Website.
 - 👯 I’m looking to collaborate with other Developers:
