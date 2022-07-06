@@ -24,3 +24,5 @@
 - ⚡ Fun fact: I love kobo
 
 <br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tripng&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nayan's Github Stats" width="100%"></img>
